@@ -5,13 +5,9 @@
   "description": "Powerful PornHub API for Node.js",
   "author": "Pionxzh",
   "license": "MIT",
-  "homepage": "https://github.com/pionxzh/pornhub.js#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pionxzh/pornhub.js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/pionxzh/pornhub.js/issues"
+    "url": "https://github.com/smreczek38/Pornhub.js.git"
   },
   "keywords": [
     "node.js",
